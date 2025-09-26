@@ -11,7 +11,7 @@ Each project scrapes data from a specific website and saves the results in a str
 - Scrapes quotes, authors, and tags from [Quotes to Scrape](https://quotes.toscrape.com/).
 - **Files**:
   - `Quotes_Web_Scraper.ipynb` → Jupyter Notebook with scraping code
-  - `Quotes.csv` (if added) → Scraped quotes data
+  - `Quotes.csv` → Scraped quotes data
 
 ---
 
